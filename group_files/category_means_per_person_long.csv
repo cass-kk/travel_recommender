@@ -1,0 +1,41 @@
+person,category,avg_prob
+Caro's Album,Cultural,0.30689655172413793
+Caro's Album,Outdoor Activities,0.28620689655172415
+Caro's Album,Attractions,0.1793103448275862
+Caro's Album,Food & Drink,0.06896551724137931
+Caro's Album,Sporting Events,0.041379310344827586
+Caro's Album,Concerts & Shows,0.034482758620689655
+Caro's Album,Night Life,0.018965517241379314
+Caro's Album,Casino & Gambling,0.001724137931034483
+Cass's Album,Outdoor Activities,0.3254237288135593
+Cass's Album,Attractions,0.2364406779661017
+Cass's Album,Sporting Events,0.16101694915254236
+Cass's Album,Cultural,0.1576271186440678
+Cass's Album,Food & Drink,0.04491525423728814
+Cass's Album,Concerts & Shows,0.030508474576271188
+Cass's Album,Night Life,0.024576271186440676
+Cass's Album,Casino & Gambling,0.0008474576271186442
+Melissa's Album,Attractions,0.2982142857142857
+Melissa's Album,Outdoor Activities,0.29464285714285715
+Melissa's Album,Cultural,0.21607142857142855
+Melissa's Album,Food & Drink,0.09107142857142857
+Melissa's Album,Night Life,0.03928571428571429
+Melissa's Album,Sporting Events,0.028571428571428574
+Melissa's Album,Concerts & Shows,0.02857142857142857
+Melissa's Album,Casino & Gambling,0.0
+Mike’s Album,Outdoor Activities,0.4671428571428572
+Mike’s Album,Attractions,0.18285714285714286
+Mike’s Album,Cultural,0.1742857142857143
+Mike’s Album,Food & Drink,0.054285714285714284
+Mike’s Album,Night Life,0.05142857142857143
+Mike’s Album,Sporting Events,0.04
+Mike’s Album,Concerts & Shows,0.02142857142857143
+Mike’s Album,Casino & Gambling,0.0
+Paolo's Album,Outdoor Activities,0.3068181818181818
+Paolo's Album,Attractions,0.29545454545454547
+Paolo's Album,Cultural,0.2818181818181818
+Paolo's Album,Night Life,0.05227272727272727
+Paolo's Album,Food & Drink,0.031818181818181815
+Paolo's Album,Sporting Events,0.018181818181818184
+Paolo's Album,Concerts & Shows,0.009090909090909092
+Paolo's Album,Casino & Gambling,0.004545454545454546
